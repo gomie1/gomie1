@@ -12,7 +12,7 @@
 | 삼성청년SW·AI아카데미 12기 공통 프로젝트 (웹기술) | 삼성전자주식회사 | 🥉 우수상 | 2025.02.21 |
 
 ## 🛠️ Tech Stack
-**Language**<br><br>
+### Language
 ![Java](https://img.shields.io/badge/Java-17-007396?style=flat-square&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3.9-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-17-00599C?style=flat-square&logo=cplusplus&logoColor=white)
